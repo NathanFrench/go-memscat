@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/nathanfrench/memscat"
+	"github.com/nathanfrench/go-memscat"
 )
 
 func main() {
